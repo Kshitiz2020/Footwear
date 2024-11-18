@@ -34,6 +34,7 @@ export default {
       },
       screens: {
         wide: "1440px",
+        "max-sm": { max: "640px" },
       },
     },
   },
